@@ -1,0 +1,10 @@
+anyio==3.5.0
+fastapi==0.75.2
+idna==3.3
+prometheus-client==0.14.1
+prometheus-client-model==0.0.1
+prometheus-fastapi-instrumentator==5.7.1
+pydantic==1.9.0
+sniffio==1.2.0
+starlette==0.17.1
+typing_extensions==4.2.0
