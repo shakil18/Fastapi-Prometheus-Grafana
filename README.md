@@ -38,7 +38,7 @@ uvicorn app:app
 
 **Azizul Hakim Shakil** - [@ShakilAzizul](https://twitter.com/ShakilAzizul) - azizulhakim.shakil18@gmail.com
 
-Project Link: [https://github.com/shakil18/Fastapi-Prometheus-Grafana](https://github.com/rcrane/Fastapi-Prometheus-Grafana)
+Project Link: [https://github.com/shakil18/Fastapi-Prometheus-Grafana](https://github.com/shakil18/Fastapi-Prometheus-Grafana)
 
 <br/>
 
